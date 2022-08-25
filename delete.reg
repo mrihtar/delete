@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor]
+;"AutoRun"="@doskey /macrofile=\"C:\\Windows\\macros.doskey\""
+
+[HKEY_CURRENT_USER\Software\Microsoft\Command Processor]
+"AutoRun"="@doskey /macrofile=\"C:\\Windows\\macros.doskey\""
